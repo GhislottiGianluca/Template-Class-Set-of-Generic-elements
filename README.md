@@ -20,7 +20,7 @@ In addition to the methods essential to its operation, the following features ha
 * **operator==** to compare two sets, true if the two sets contain the same data.
 * Global, generic function **filter_out** which, given a generic set S on types T and a generic Boolean predicate P, returns a new set of types T obtained by taking from S all elements satisfying the predicate P.
 * Global function **operator+** which, given two generic Sets on T types as input, returns a new Set of T types containing the elements of both sets (*concatenation of sets*).
-*Global function **operator-** which, given as input two generic sets of T types, returns a new set of T types containing the elements common to both sets (*intersection of sets*).
+* Global function **operator-** which, given as input two generic sets of T types, returns a new set of T types containing the elements common to both sets (*intersection of sets*).
 
 
 
