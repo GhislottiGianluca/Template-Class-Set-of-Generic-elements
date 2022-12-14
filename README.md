@@ -1,9 +1,5 @@
 # Template-Class-Set-of-Generic-elements
 
-### Definitions
-* **Generic classes** encapsulate operations that are not specific to a particular data type.
-* **Functor** is any type that implements *operator()*. The C++ standard library uses function objects primarily as sorting criteria for containers and in algorithms.
-
 ## Project description 
 The project consists of the realisation of a class that implements a set of generic T elements. A set is a collection of data that may NOT contain duplicates.<br>
 The intended use for this repository is **custom data sets**, with **functors** it is possible to handle operations that the basic operators of c++ are not able to do, for this reason the most important operators have been redefined and adapted to generic data.
@@ -22,7 +18,9 @@ In addition to the methods essential to its operation, the following features ha
 * Global function **operator+** which, given two generic Sets on T types as input, returns a new Set of T types containing the elements of both sets (*concatenation of sets*).
 * Global function **operator-** which, given as input two generic sets of T types, returns a new set of T types containing the elements common to both sets (*intersection of sets*).
 
-
+### Definitions
+* **Generic classes** encapsulate operations that are not specific to a particular data type.
+* **Functor** is any type that implements *operator()*. The C++ standard library uses function objects primarily as sorting criteria for containers and in algorithms.
 
 ## Installation prerequisites
 
