@@ -22,11 +22,11 @@ In addition to the methods essential to its operation, the following features ha
 * **Generic classes** encapsulate operations that are not specific to a particular data type.
 * **Functor** is any type that implements *operator()*. The C++ standard library uses function objects primarily as sorting criteria for containers and in algorithms.
 
-## Installation prerequisites
+## How to run it (Windows) 
+
+### Installation prerequisites
 
 * g++
-
-## How to run it (Windows)
 
 ### **Clone the repository**: clone the project repository and get inside from command line.
       git clone https://github.com/GhislottiGianluca/Template-Class-Set-of-Generic-elements.git
