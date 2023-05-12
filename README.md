@@ -1,7 +1,7 @@
 # Template-Class-Set-of-Generic-elements
 
 ## Project description 
-The project consists of the realisation of a class that implements a set of generic T elements. A set is a collection of data that may NOT contain duplicates.<br>
+The project involves the realisation of a class that implements a set of generic T elements. A set is a collection of data that may NOT contain duplicates.<br>
 The intended use for this repository is **custom data sets**, with **functors** it is possible to handle operations that the basic operators of c++ are not able to do, for this reason the most important operators have been redefined and adapted to generic data.
 
 
