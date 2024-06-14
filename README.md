@@ -1,4 +1,4 @@
-# Template-Class-Set-of-Generic-elements
+# Template Class Set of Generic elements
 
 ## Project description 
 The project involves the realisation of a class that implements a set of generic T elements. A set is a collection of data that may NOT contain duplicates.<br>
